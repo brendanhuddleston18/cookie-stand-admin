@@ -25,3 +25,5 @@
 - Insert Cookie Stand Information into forms
 
 - Hit create button
+
+- View the maginficent table
