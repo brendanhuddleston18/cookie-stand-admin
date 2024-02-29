@@ -1,4 +1,4 @@
-# LAB - Class 31/32
+# LAB - Class 37/38
 
 ## Project: Leveling up Front End with React, Next.js & TailwindCSS
 
@@ -26,4 +26,4 @@
 
 - Hit create button
 
-- View the maginficent table
+- View Magnificent Table
