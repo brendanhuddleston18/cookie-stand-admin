@@ -6,6 +6,8 @@
 
 ### Links and Resources
 
+- [API Deployed Link](https://cookie-stand-api2-brendan-huddlestons-projects.vercel.app/)
+
 ### Setup
 
 - Clone Repo
